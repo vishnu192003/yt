@@ -5,7 +5,7 @@ YT is a reading website where all categories of people can read books, magazines
 
 
 ## 🚀 About Me
-We are delighted to introduce the YT, your one-stop destination for all your reading needs. Our bookstore is designed to provide students, faculty, and the RTC community with easy access to a wide range of educational resources. From textbooks and reference books to stationery and RTC merchandise, we have everything you need to support your academic journey. We are committed to providing quality products at competitive prices. Explore our website to discover our collection and make your purchases conveniently from the comfort of your home. We hope you enjoy your shopping experience with us. Happy reading!
+We are delighted to introduce the YT, your one-stop destination for all your reading needs. Our bookstore is designed to provide students, faculty, and the YT community with easy access to a wide range of educational resources. From textbooks and reference books to stationery and YT merchandise, we have everything you need to support your academic journey. We are committed to providing quality products at competitive prices. Explore our website to discover our collection and make your purchases conveniently from the comfort of your home. We hope you enjoy your shopping experience with us. Happy watching!
 
 
 ## Authors
